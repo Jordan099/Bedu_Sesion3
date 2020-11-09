@@ -1,9 +1,41 @@
-.container-header{
+h1{
 
-    width: 100%;
-    height: 400px;
-    background-color: aqua;
+    color: brown;
+
+}
+
+body{
+
+    background-color: #fffbf7;
+
+}
+
+
+#cabecera{
+
+    color: #46484c;
+    
+}
+
+#promocional{
+
+    color: #8b8b8bcc;
+
+}
+
+#boton{
+
+    color: #fff;
+    background:  #025157;
 
     
+}
+
+
+
+
+
+.cabecera{
+
 
 }
