@@ -1,5 +1,5 @@
 body{
-    background-color: red;
+    background-color: green;
 }
 
 
@@ -23,6 +23,29 @@ body{
     width: 30%;
     height: 100px;
     background-color: aqua;
+}
+
+.publish h3{
+    font-family: sans-serif;
+    color: #025157;
+    font-size: 40px;
+    line-height: 48px;
+}
+
+.publish > p{
+    color: #343434;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.publish > form{
+    display: flex;
+}
+
+.publish > form p{
+    color: #025157;
+    
 }
 
 
